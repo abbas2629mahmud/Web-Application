@@ -22,6 +22,9 @@ img{
 .navbar-brand{
     color: #444;
 }
+.main-btn{
+    background-color: #289bde;
+}
 /************************
     Hero Area
 *************************/
@@ -49,7 +52,9 @@ img{
     color: #f59e0b;
     font-size: 20px;
 } 
-
+.ready-to-details{
+    background-color: #289bde;
+}
 
 /************************
     Footer Area
@@ -71,7 +76,11 @@ img{
     border-radius: 50%;
     display: inline-block;
     color: #fff;
+    transition: .3s;
 } 
+.footer-area a:hover{
+    background-color: #289bde;
+}
 
 
 /* Tablet Layout: 991px. */
