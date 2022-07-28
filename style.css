@@ -72,3 +72,42 @@ img{
     display: inline-block;
     color: #fff;
 } 
+
+
+/* Tablet Layout: 991px. */
+
+@media (min-width:100px) and (max-width: 991px) {
+    h1{
+        font-size: 40px;
+    }
+    h2,h3{
+        font-size: 34px;
+    }
+    br{
+        display: none;
+    }
+    .hero-area p {
+        font-size: inherit;
+    }
+    .explore-items h2{
+        font-size: 24px !important;
+    }
+}
+
+
+/* Mobile Layout: 991px. */
+
+@media (min-width:100px) and (max-width: 767px) {
+    h1,h2,h3{
+        font-size: 28px;
+    }
+    .explore-details img{
+        width: 100% !important;
+    }
+}
+
+@media (min-width: 100px) and (max-width: 580px) {
+   .carousel-item img{
+    height: 300px;
+   }
+}
