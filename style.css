@@ -1,0 +1,74 @@
+/* h1{
+    font-size: 70px;
+}
+h2{
+    font-size: 48px;
+}
+h3{
+    font-size: 34px;
+}
+h4{
+    font-size:28px;
+}
+h5{
+    font-size: 20px;
+}
+h6{
+    font-size: 18px;
+}
+img{
+    max-width: 100%;
+}
+.navbar-brand{
+    color: #444;
+} */
+/************************
+    Hero Area
+*************************/
+/* 
+.hero-area p{
+    font-size: 20px;
+}
+.carousel-caption {
+    bottom: 50%;
+    transform: translateY(50%);
+}
+.carousel-indicators button {
+    display: none;
+} */
+
+/************************
+    Explore Area
+*************************/
+
+/* .explore-details{
+    background-color: #f4fafd;
+}
+
+.icons i{
+    color: #f59e0b;
+    font-size: 20px;
+} */
+
+
+/************************
+    Footer Area
+*************************/
+/* 
+.footer-area{
+    padding: 100px 0;
+    background-color: #161616;
+}
+.footer-area ul li{
+    list-style: none;
+}
+.footer-area a{
+    height: 40px;
+    width: 40px;
+    background-color: #242424;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50%;
+    display: inline-block;
+    color: #fff;
+} */
