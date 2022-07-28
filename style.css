@@ -100,6 +100,9 @@ img{
 @media (min-width:100px) and (max-width: 767px) {
     h1,h2,h3{
         font-size: 28px;
+    } 
+    h4{
+        font-size: 20px;
     }
     .explore-details img{
         width: 100% !important;
